@@ -1,0 +1,9 @@
+.Main_text div span
+{
+line-height: 134.9%;
+/* or 18px */
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+}
+
